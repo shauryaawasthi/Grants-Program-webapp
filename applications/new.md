@@ -157,7 +157,7 @@ Order
 - owner: the owner of the Order request
 - price: Order price for showing info when called individually
 - amount: Requested amount for trade
-- order_type: BID or ASK
+- order_type: BID or ASKllll
 ```
 
 Pair
