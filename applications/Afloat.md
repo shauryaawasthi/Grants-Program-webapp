@@ -6,7 +6,7 @@
 
 ## Overview
 
-[Afloat](https://stayafloat.io/#/) is one of the first real-use cases of blockchain technology in the accounting industry. It enables the fractional buying and selling of tax credits that historically have been inefficient, opaque, and centralized. It has already processed tax credits ranging in orders from $2K -$70k USD.
+[Afloat](https://stayafloat.io/#/) is one of the first real-use cases of blockchain technology in the accounting industry. 
 
 Afloat was built on a private Ethereum clone but wants to migrate to Polkadot due to its technology, identity management, and community. Parachains like Kilt and their identity services would be crucial at validating government roles and professional certifications like accountants and institutional sellers.
 
